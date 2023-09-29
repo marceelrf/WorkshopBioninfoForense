@@ -18,4 +18,6 @@
 - sam/
 - vcf/
 
+## Material de apoio
+- Instalando o WSL ([youtube](https://www.youtube.com/watch?v=MaTe1qBTaic))
 ## Referências
