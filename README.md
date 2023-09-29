@@ -5,6 +5,7 @@
 
 ## Softwares necessários
 - WSL (Windows Subsystem fo Linux)
+- IGV ([site](https://software.broadinstitute.org/software/igv/download))
 - fastqc ([github](https://github.com/s-andrews/FastQC))
 - bwa ([github](https://github.com/lh3/bwa))
 - minimap2 ([github](https://github.com/lh3/minimap2))
