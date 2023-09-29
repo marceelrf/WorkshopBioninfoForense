@@ -4,7 +4,8 @@
 ## Introdução
 
 ## Softwares necessários
-
+- samtools (github)[https://github.com/samtools/samtools]
+- freebayes
 ## Dados utilizados
 - fast5/
 - fastq/
