@@ -4,7 +4,7 @@
 ## Introdução
 
 ## Softwares necessários
-- WSL (Windows Subsystem fo Linux)
+- WSL (Windows Subsystem for Linux)
 - IGV ([site](https://software.broadinstitute.org/software/igv/download))
 - fastqc ([github](https://github.com/s-andrews/FastQC))
 - bwa ([github](https://github.com/lh3/bwa))
