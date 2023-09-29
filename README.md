@@ -1,4 +1,4 @@
-# Workshop Bioninformática aplicada forense
+# Workshop Bioinformática aplicada forense
 
 
 ## Introdução
