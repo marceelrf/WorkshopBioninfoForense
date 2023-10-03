@@ -21,6 +21,8 @@ Prepare-se para uma jornada emocionante e instrutiva à medida que exploramos o 
 - minimap2 ([github](https://github.com/lh3/minimap2))
 - samtools ([github](https://github.com/samtools/samtools))
 - freebayes ([github](https://github.com/freebayes/freebayes))
+- gatk ([github](https://github.com/broadinstitute/gatk))
+- whatshap ([github]())
 ### Opcionais
 - [notepad++](https://notepad-plus-plus.org/downloads/) 
 ## Dados utilizados
