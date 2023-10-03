@@ -22,7 +22,7 @@ Prepare-se para uma jornada emocionante e instrutiva à medida que exploramos o 
 - samtools ([github](https://github.com/samtools/samtools))
 - freebayes ([github](https://github.com/freebayes/freebayes))
 - gatk ([github](https://github.com/broadinstitute/gatk))
-- whatshap ([github]())
+- WhatsHap ([github](https://github.com/whatshap/whatshap))
 ### Opcionais
 - [notepad++](https://notepad-plus-plus.org/downloads/) 
 ## Dados utilizados
