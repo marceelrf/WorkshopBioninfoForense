@@ -28,6 +28,7 @@ Prepare-se para uma jornada emocionante e instrutiva à medida que exploramos o 
 ### Opcionais
 - [notepad++](https://notepad-plus-plus.org/downloads/)
 - [gzip](https://www.gnu.org/software/gzip/)
+- [HTSlib](https://github.com/samtools/htslib)
 ## Dados utilizados
 - fast5/
 - fastq/
