@@ -26,7 +26,8 @@ Prepare-se para uma jornada emocionante e instrutiva à medida que exploramos o 
 - bcftools ([site](https://samtools.github.io/bcftools/)) ([github](https://github.com/samtools/bcftools))
 - WhatsHap ([github](https://github.com/whatshap/whatshap))
 ### Opcionais
-- [notepad++](https://notepad-plus-plus.org/downloads/) 
+- [notepad++](https://notepad-plus-plus.org/downloads/)
+- [gzip](https://www.gnu.org/software/gzip/)
 ## Dados utilizados
 - fast5/
 - fastq/
