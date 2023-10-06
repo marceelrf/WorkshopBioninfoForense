@@ -33,7 +33,7 @@ Prepare-se para uma jornada emocionante e instrutiva à medida que exploramos o 
 - fast5/
 - fastq/
 - genome/
-- sam/
+- bam/
 - vcf/
 
 ## Material de apoio
