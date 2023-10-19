@@ -1,4 +1,4 @@
-![image](https://github.com/marceelrf/WorkshopBioninfoForense/assets/48413106/4c6d0802-175a-48ea-b22e-00abc76b1d30)# Workshop Bioinformática aplicada forense
+# Workshop Bioinformática aplicada forense
 
 
 ## Introdução
