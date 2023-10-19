@@ -38,4 +38,6 @@ Prepare-se para uma jornada emocionante e instrutiva à medida que exploramos o 
 
 ## Material de apoio
 - Instalando o WSL ([youtube](https://www.youtube.com/watch?v=MaTe1qBTaic))
+- Sequenciamento ([youtube](https://www.youtube.com/watch?v=fCd6B5HRaZ8))
+- Sequenciamento Oxford Nanopore ([youtube](https://youtu.be/RcP85JHLmnI))
 ## Referências
