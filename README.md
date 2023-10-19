@@ -1,4 +1,4 @@
-# Workshop Bioinformática aplicada forense
+![image](https://github.com/marceelrf/WorkshopBioninfoForense/assets/48413106/4c6d0802-175a-48ea-b22e-00abc76b1d30)# Workshop Bioinformática aplicada forense
 
 
 ## Introdução
@@ -40,4 +40,7 @@ Prepare-se para uma jornada emocionante e instrutiva à medida que exploramos o 
 - Instalando o WSL ([youtube](https://www.youtube.com/watch?v=MaTe1qBTaic))
 - Sequenciamento ([youtube](https://www.youtube.com/watch?v=fCd6B5HRaZ8))
 - Sequenciamento Oxford Nanopore ([youtube](https://youtu.be/RcP85JHLmnI))
+- RNN ([youtube](https://www.youtube.com/watch?v=AsNTP8Kwu80&t=4s))
+- LSTM ([youtube](https://www.youtube.com/watch?v=YCzL96nL7j0&t=540s))
+  
 ## Referências
