@@ -2,6 +2,8 @@
 
 ## Dia 1 - Sequenciamento
 
+- Pq sequenciar
+
 ## Dia 2 - Alinhamento
 
 ## Dia 3 - Genotipagem
