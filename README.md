@@ -1,4 +1,4 @@
-# Workshop Bioinformática aplicada a genética forense: analise de dados de sequenciamento de segunda e  terceira geração.
+# Workshop Bioinformática aplicada a genética forense: análise de dados de sequenciamento de segunda e  terceira geração.
 
 
 ## Introdução
