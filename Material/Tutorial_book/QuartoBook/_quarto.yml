@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Tutorial Bioinformatica"
+  author: "Marcel Ferreira"
+  date: "today"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - sequenciamento.qmd
+    - alinhamento.qmd
+    - genotipagem.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
