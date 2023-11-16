@@ -7,6 +7,20 @@
     "text": "Prefacio"
   },
   {
+    "objectID": "index.html#softwares-necessários",
+    "href": "index.html#softwares-necessários",
+    "title": "Tutorial Bioinformatica",
+    "section": "Softwares necessários",
+    "text": "Softwares necessários\n\nWSL (Windows Subsystem for Linux)\nIGV (site)\nfastqc (github)\nbwa (github)\nminimap2 (github)\nsamtools (github)\nfreebayes (github)\ngatk (github)\nvcftools (github)\nbcftools (site) (github)\nWhatsHap (github)\n\n\nOpcionais\n\nnotepad++\ngzip\nHTSlib"
+  },
+  {
+    "objectID": "index.html#dados-utilizados",
+    "href": "index.html#dados-utilizados",
+    "title": "Tutorial Bioinformatica",
+    "section": "Dados utilizados",
+    "text": "Dados utilizados\n\nfast5/\nfastq/\ngenome/\nbam/\nvcf/"
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "1  Introduction",
@@ -40,19 +54,5 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "index.html#softwares-necessários",
-    "href": "index.html#softwares-necessários",
-    "title": "Tutorial Bioinformatica",
-    "section": "Softwares necessários",
-    "text": "Softwares necessários\n\nWSL (Windows Subsystem for Linux)\nIGV (site)\nfastqc (github)\nbwa (github)\nminimap2 (github)\nsamtools (github)\nfreebayes (github)\ngatk (github)\nvcftools (github)\nbcftools (site) (github)\nWhatsHap (github)\n\n\nOpcionais\n\nnotepad++\ngzip\nHTSlib"
-  },
-  {
-    "objectID": "index.html#dados-utilizados",
-    "href": "index.html#dados-utilizados",
-    "title": "Tutorial Bioinformatica",
-    "section": "Dados utilizados",
-    "text": "Dados utilizados\n\nfast5/\nfastq/\ngenome/\nbam/\nvcf/"
   }
 ]
