@@ -1,9 +1,29 @@
-# Preface {.unnumbered}
+# Prefacio {.unnumbered}
 
-This is a Quarto book.
+## Softwares necessários
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+-   WSL (Windows Subsystem for Linux)
+-   IGV ([site](https://software.broadinstitute.org/software/igv/download))
+-   fastqc ([github](https://github.com/s-andrews/FastQC))
+-   bwa ([github](https://github.com/lh3/bwa))
+-   minimap2 ([github](https://github.com/lh3/minimap2))
+-   samtools ([github](https://github.com/samtools/samtools))
+-   freebayes ([github](https://github.com/freebayes/freebayes))
+-   gatk ([github](https://github.com/broadinstitute/gatk))
+-   vcftools ([github](https://github.com/vcftools/vcftools))
+-   bcftools ([site](https://samtools.github.io/bcftools/)) ([github](https://github.com/samtools/bcftools))
+-   WhatsHap ([github](https://github.com/whatshap/whatshap))
 
-```{r}
-1 + 1
-```
+### Opcionais
+
+-   [notepad++](https://notepad-plus-plus.org/downloads/)
+-   [gzip](https://www.gnu.org/software/gzip/)
+-   [HTSlib](https://github.com/samtools/htslib)
+
+## Dados utilizados
+
+-   fast5/
+-   fastq/
+-   genome/
+-   bam/
+-   vcf/
