@@ -1,0 +1,75 @@
+---
+title: "Sequenciamento de DNA"
+author: "Marcel Ferreira @marceelrf"
+date: "today"
+format: 
+  revealjs: 
+    theme: serif
+editor: visual
+---
+
+## Introdução ao sequenciamento de DNA
+
+-   Definição de sequenciamento de DNA.
+
+-   Importância do sequenciamento na biologia molecular e medicina.
+
+-   Breve histórico do desenvolvimento de técnicas de sequenciamento.
+
+## Técnicas de sequenciamento de DNA
+
+-   Sanger sequencing.
+
+-   Next-Generation Sequencing (NGS): Illumina, Roche 454, Ion Torrent, etc.
+
+-   Third-Generation Sequencing: PacBio, Oxford Nanopore.
+
+-   Comparação entre as técnicas em termos de custo, tempo e precisão.
+
+## Processamento de Dados de Sequenciamento
+
+-   Introdução à bioinformática e seu papel no sequenciamento de DNA.
+
+-   Pré-processamento de dados brutos.
+
+-   Montagem de genoma.
+
+-   Anotação genômica.
+
+## Ferramentas Bioinformáticas
+
+-   Alinhamento de sequências.
+
+-   Variant calling.
+
+-   Ferramentas populares: BWA, Bowtie, SAMtools, GATK, etc.
+
+-   Visualização de dados: Integrando resultados com ferramentas como IGV.
+
+## Aplicações do Sequenciamento de DNA
+
+-   Estudos genômicos.
+
+-   Diagnóstico de doenças genéticas.
+
+-   Medicina personalizada.
+
+-   Estudos de população e evolução.
+
+## Desafios e Futuro do Sequenciamento de DNA
+
+-   Limitações atuais e desafios enfrentados.
+
+-   Tendências futuras, como sequenciamento de terceira geração e métodos de sequenciamento de nanoporos.
+
+## Estudo de Caso ou Atividade Prática
+
+-   Realização de uma análise simples usando dados de sequenciamento simulados.
+
+-   Discussão dos resultados e desafios encontrados.
+
+## FASTQ
+
+```{r,echo=FALSE}
+cat(paste0(readLines("1_R1.sync.fastq",n = 8),collapse = "\n"))
+```
