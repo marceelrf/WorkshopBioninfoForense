@@ -32,6 +32,8 @@ Prepare-se para uma jornada emocionante e instrutiva à medida que exploramos o 
 ## Dados utilizados
 - fast5/
 - fastq/
+  - ShortReads/
+  - LongReads/
 - genome/
 - bam/
 - vcf/
