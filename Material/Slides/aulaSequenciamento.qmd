@@ -5,6 +5,9 @@ date: "today"
 format: 
   revealjs: 
     theme: serif
+    width: 1500
+    height: 1200
+    margin: 0
 editor: visual
 ---
 
@@ -70,6 +73,41 @@ editor: visual
 
 ## FASTQ
 
+-   Formato de arquivo usado na bioinformática para armazenar dados de sequenciamento de DNA;
+
+-   Contém informações sobre as bases sequenciadas e suas respectivas pontuações de qualidade;
+
+-   `".fastq"` ou `".fq"`;
+
+## FASTQ
+
 ```{r,echo=FALSE}
 cat(paste0(readLines("1_R1.sync.fastq",n = 8),collapse = "\n"))
 ```
+
+## FASTQ
+
+```{r,echo=FALSE,message=FALSE}
+library(crayon)
+```
+
+```{r,echo=FALSE}
+tmp <- readLines("1_R1.sync.fastq",n = 4)
+
+cat(
+  paste(red(tmp[1]),cyan(tmp[2]),yellow(tmp[3]),magenta(tmp[4]),
+           sep = "\n")
+  )
+```
+
+`@A00296:37:HFHHWDSXX:1:2134:26187:35916` - **Header**: identificação da sequência (identificador da máquina, corrida, etc);
+
+`AAGGATTGGAATTCCCAGAGTTGGAAATTCCCATGCCCTGA` - **Sequência das bases**;
+
+`+` - **Separador**;
+
+`??????5????????+????????????5?+??++?????` - **Qualidade**;
+
+## FASTQC
+
+## Referências
